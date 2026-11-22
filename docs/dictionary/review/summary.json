@@ -1,0 +1,181 @@
+{
+ "input": {
+  "archive": "keyboard_data_v0.zip / keyboard_data/",
+  "files": {
+   "agx_words.sqlite": "de6a036ecbe1535681952d80bc04bdef1206e49cb82e2f01100e68bbe6fcf275",
+   "agx_bigrams.sqlite": "dddb23dbc6f3e5e584954790a9d19befaecb2f5ad665e3e6a812cc31ecf9754a",
+   "agx_words.tsv": "75c85c1b5ab83bd6a0340e00d5214446116ded545e12a81a88e33cfd63b27e70",
+   "agx_bigrams.tsv": "e475419cb88602746db7cfaf44409022238ccaee7deed682f4d4f7266d701ec7",
+   "agx_stats.json": "ee8c284e31bf10c733f30829f707d319a95a2e886fd7d0af7ffe7778bae91da0"
+  },
+  "repair_tables": {
+   "luke_glued_tokens.tsv": "4759041fb8381b0fd54e1e1980f06b162bf06c8a08b592b63d202b05919cda2b",
+   "luke_short_words.tsv": "72922c2842ea6b8cad5c1b14af4847b2568ef4fac31a5c7f94f7dc88f60fb879",
+   "agullang_palochka_words.tsv": "f544a041f2b5de7bd5d784c4bdc3be767433a2037ddbc8e5a44c4445baf7f60a",
+   "agullang_cut_pieces.tsv": "662be7f9f88914869a5797c80ffe895ddc9ca538fd9c3f6ea83ae7a99043de98"
+  },
+  "v0_generated_at": "2026-10-11T17:00:54+00:00",
+  "v0_sources": {
+   "luke_ibt": {
+    "kind": "clean",
+    "sentences": 905,
+    "tokens": 17977,
+    "dropped_russian": 0,
+    "dup": 78
+   },
+   "agullang_dict": {
+    "kind": "lexicon",
+    "words": 3054
+   },
+   "ids": {
+    "kind": "lexicon",
+    "words": 1184
+   }
+  }
+ },
+ "audit": {
+  "words": 7439,
+  "bigrams": 1625,
+  "character_inventory": {
+   "а U+0430": 9300,
+   "и U+0438": 4359,
+   "у U+0443": 3725,
+   "р U+0440": 3269,
+   "н U+043D": 2487,
+   "к U+043A": 2474,
+   "е U+0435": 2318,
+   "т U+0442": 2161,
+   "л U+043B": 2011,
+   "д U+0434": 2003,
+   "х U+0445": 1953,
+   "г U+0433": 1918,
+   "ь U+044C": 1839,
+   "с U+0441": 1723,
+   "ъ U+044A": 1682,
+   "ӏ U+04CF": 1406,
+   "в U+0432": 1135,
+   "м U+043C": 989,
+   "ф U+0444": 899,
+   "б U+0431": 873,
+   "ч U+0447": 868,
+   "й U+0439": 827,
+   "ш U+0448": 557,
+   "я U+044F": 492,
+   "п U+043F": 374,
+   "з U+0437": 330,
+   "ж U+0436": 279,
+   "ц U+0446": 226,
+   "э U+044D": 83,
+   "о U+043E": 43,
+   "ю U+044E": 32,
+   "- U+002D": 7
+  },
+  "palochka_after": {
+   "х": 276,
+   "к": 275,
+   "г": 263,
+   "^": 139,
+   "т": 133,
+   "ч": 114,
+   "ц": 93,
+   "ъ": 72,
+   "е": 10,
+   "п": 9,
+   "я": 5,
+   "р": 4,
+   "у": 4,
+   "а": 2,
+   "ь": 2,
+   "и": 1,
+   "л": 1,
+   "м": 1,
+   "с": 1,
+   "э": 1
+  },
+  "not_nfc": [],
+  "not_lowercase": [],
+  "not_canonical": [],
+  "canonical_collisions": [],
+  "contract_invalid": [],
+  "outside_alphabet": [],
+  "latin_letters": [],
+  "visible_palochka_u04c0": [],
+  "replacement_or_control_chars": [],
+  "hyphenated": 7,
+  "with_palochka": 1264,
+  "doubled_palochka": [],
+  "same_letter_three_times": [],
+  "score_formula_mismatch": [],
+  "count_mismatch": [],
+  "source_mix": {
+   "clean text": 3668,
+   "word list": 3087,
+   "word list + clean text": 684
+  },
+  "in_word_lists": 3771,
+  "word_lists_only": 3087,
+  "text_only": 3668,
+  "corpus_tokens": {
+   "ocr": 0,
+   "clean_text": 17977
+  },
+  "bigram_orphans": 0,
+  "bigram_weight_below_2": 0,
+  "bigram_self_pairs": [
+   "ге ге"
+  ]
+ },
+ "fixes": {
+  "by_rule_and_action": {
+   "F1 row removed": 15,
+   "G1 row split": 85,
+   "G2 row split": 3,
+   "P1 row removed": 674,
+   "P1 word-list credit withdrawn": 32,
+   "R1 count restored": 1,
+   "R1 row added": 1,
+   "W1 row added": 821,
+   "W1 word-list credit": 330
+  },
+  "rows_removed": 777,
+  "rows_added": 845,
+  "glued_rows_split": 88,
+  "glued_tokens": 89,
+  "respelled": 0
+ },
+ "merges": {
+  "total": 14,
+  "by_rule": {
+   "S1": 14
+  }
+ },
+ "flags": {
+  "words": 129,
+  "high_priority": 5,
+  "by_category": {
+   "word-list spelling outside the school alphabet": 71,
+   "two-letter word-list entry": 27,
+   "possibly two words printed as one": 19,
+   "hyphenated entry": 7,
+   "spelled two ways in the data": 3,
+   "very long token": 2,
+   "possibly a suffix notation": 1
+  },
+  "high_priority_by_category": {
+   "possibly two words printed as one": 5
+  }
+ },
+ "output": {
+  "words": 7493,
+  "bigrams": 1625,
+  "words_unchanged_from_v0": 6182,
+  "words_in_word_lists": 4064,
+  "words_with_palochka": 2053,
+  "corpus_tokens": 18108,
+  "corpus_tokens_v0": 17977,
+  "base_score_total": 185734,
+  "base_score_total_v0": 184008,
+  "bigram_weight_total": 4890,
+  "bigram_weight_total_v0": 4890
+ }
+}

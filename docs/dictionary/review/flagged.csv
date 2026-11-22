@@ -1,0 +1,130 @@
+priority,word,count,word_lists,base_score,categories,notes
+high,ахьасеагъай,1,0,10,possibly two words printed as one,ахьасе (45) + агъай (67): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+high,инсанаргебурис,1,0,10,possibly two words printed as one,инсанар (56) + гебурис (82): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+high,пунапуная,1,0,10,possibly two words printed as one,пуна (92) + пуная (261): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+high,удигьамма,1,0,10,possibly two words printed as one,удигь (29) + амма (64): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+high,хьасеинсанари,1,0,10,possibly two words printed as one,хьасе (59) + инсанари (23): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+normal,агъафайшуная,2,0,20,possibly two words printed as one,агъа (60) + файшуная (7): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+normal,агваракьасе,1,0,10,possibly two words printed as one,агвар (12) + акьасе (34): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+normal,агваракье,1,0,10,possibly two words printed as one,агвар (12) + акье (58): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+normal,акьунаатуная,1,0,10,possibly two words printed as one,акьуна (87) + атуная (5): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+normal,алдихьуне,1,0,10,possibly two words printed as one,алди (6) + хьуне (7): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+normal,аркьаяамма,1,0,10,possibly two words printed as one,аркьая (15) + амма (64): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+normal,атунауйи,1,0,10,possibly two words printed as one,атуна (6) + уйи (15): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+normal,багуливпуная,1,0,10,possibly two words printed as one,багулив (14) + пуная (261): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+normal,гъузунагьавайикес,1,0,10,possibly two words printed as one,гъузуна (20) + гьавайикес (7): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+normal,гӏайа,1,0,10,spelled two ways in the data,also гӏая (1): «йа» and «я»
+normal,гӏая,1,0,10,spelled two ways in the data,also гӏайа (1): «йа» and «я»
+normal,дакканттарисиджвелин,1,0,10,very long token,possibly several words printed as one
+normal,илйазаварин,1,0,10,possibly two words printed as one,илйа (5) + заварин (11): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+normal,кейхьуне,1,0,10,possibly two words printed as one,кей (7) + хьуне (7): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+normal,маслихӏеттин,1,0,10,possibly two words printed as one,маслихӏет (12) + тин (5): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+normal,мукьуйи,1,0,10,possibly two words printed as one,мукь (9) + уйи (15): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+normal,ушугунатебурис,1,0,10,possibly two words printed as one,ушугуна (5) + тебурис (8): both are frequent words of Luke and the text has no capital to prove the boundary; or a compound written as one word
+normal,хьибударисттегьенрагъ,1,0,10,very long token,possibly several words printed as one
+normal,аг,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,аи,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,алаькьунавес,0,1,1,word-list spelling outside the school alphabet,"«аь» / «оь», which are not letters of the alphabet"
+normal,ан,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,аф,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,аш,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,аькьвас,0,1,1,word-list spelling outside the school alphabet,"«аь» / «оь», which are not letters of the alphabet"
+normal,аьхъӏ,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants); «аь» / «оь», which are not letters of the alphabet"
+normal,ва,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,вар,0,1,1,possibly a suffix notation,"AgulLang «хӏуни (-, вар)»: a plural form of its own, or the ending -вар"
+normal,гъам-хаджалат,0,1,1,hyphenated entry,typed with a hyphen: the keyboard completes its halves as separate words
+normal,гъӏун,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,гӏубахъӏ,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,гӏубаьхъӏминттар,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants); «аь» / «оь», which are not letters of the alphabet"
+normal,да,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,дад-баб,0,1,1,hyphenated entry,typed with a hyphen: the keyboard completes its halves as separate words
+normal,дадар-бабар,0,1,1,hyphenated entry,typed with a hyphen: the keyboard completes its halves as separate words
+normal,джемеъӏат,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,джикъӏаф,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,джумъӏа,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,еб,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,ел,0,1,1,two-letter word-list entry; spelled two ways in the data,"a short word, or part of a dictionary entry; also эл (0): «э» and «е» at the start of a word"
+normal,ин,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,ит,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,иф,0,2,2,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,ич,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,иш,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,ка,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,каьлпуш,0,1,1,word-list spelling outside the school alphabet,"«аь» / «оь», which are not letters of the alphabet"
+normal,каьтас,0,1,1,word-list spelling outside the school alphabet,"«аь» / «оь», which are not letters of the alphabet"
+normal,ккаьтас,0,1,1,word-list spelling outside the school alphabet,"«аь» / «оь», which are not letters of the alphabet"
+normal,кьаьл,0,1,1,word-list spelling outside the school alphabet,"«аь» / «оь», which are not letters of the alphabet"
+normal,кьӏацӏ,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,кӏаьнакк,0,1,1,word-list spelling outside the school alphabet,"«аь» / «оь», which are not letters of the alphabet"
+normal,леъӏ,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,мавхъӏун,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,маръӏ,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,маъӏалим,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,маьскъв,0,1,1,word-list spelling outside the school alphabet,"«аь» / «оь», which are not letters of the alphabet"
+normal,маьхъӏв,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants); «аь» / «оь», which are not letters of the alphabet"
+normal,на,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,наькьв,0,1,1,word-list spelling outside the school alphabet,"«аь» / «оь», which are not letters of the alphabet"
+normal,наькьиш,0,1,1,word-list spelling outside the school alphabet,"«аь» / «оь», which are not letters of the alphabet"
+normal,паччаьдинф,0,1,1,word-list spelling outside the school alphabet,"«аь» / «оь», which are not letters of the alphabet"
+normal,паъӏ,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,паъӏалан,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ра,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,ракъӏ,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ракъӏу,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ру,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,рукъӏ,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,саъӏат,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,саъӏати,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,су,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,тӏинкӏ-тӏинкӏ,0,1,1,hyphenated entry,typed with a hyphen: the keyboard completes its halves as separate words
+normal,ус,0,2,2,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,уф,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,уц,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,уч-учикди,0,1,1,hyphenated entry,typed with a hyphen: the keyboard completes its halves as separate words
+normal,хи,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,хъӏал,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,хьуш-хьушар,0,1,1,hyphenated entry,typed with a hyphen: the keyboard completes its halves as separate words
+normal,хӏаьн,0,1,1,word-list spelling outside the school alphabet,"«аь» / «оь», which are not letters of the alphabet"
+normal,хӏекь-хӏисаб,0,1,1,hyphenated entry,typed with a hyphen: the keyboard completes its halves as separate words
+normal,цӏаьлепен,0,1,1,word-list spelling outside the school alphabet,"«аь» / «оь», which are not letters of the alphabet"
+normal,ъӏабаб,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏабаи,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏабан,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏагв,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏадат,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏаи,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏакв,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏакваф,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏакьуллу,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏакьулсуз,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏамалар,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏамкӏ,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏамкӏен,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏарба,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏаса,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏачун,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏачӏа,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏачӏакк,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏашкӏин,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏиръӏаф,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏлаф,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏугелаи,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏудафанар,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏуи,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏукӏ,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏукӏер,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏурдеккен,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏуссе,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏуссеф,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏутӏанас,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏутӏуб,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏуцӏас,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏуччанас,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏучӏеф,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,ъӏуш,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,эи,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,эл,0,2,2,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,элхъӏанас,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,эхъӏ,0,1,1,word-list spelling outside the school alphabet,"a sign before ӏ (IDS: «ъӏ» for the sound the alphabet writes «ӏ», «хъӏ къӏ кьӏ гъӏ» for pharyngealized consonants)"
+normal,яш,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"
+normal,яӏ,0,1,1,two-letter word-list entry,"a short word, or part of a dictionary entry"

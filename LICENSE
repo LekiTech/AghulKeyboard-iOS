@@ -1,0 +1,35 @@
+Copyright © 2026 LekiTech (https://github.com/LekiTech). All rights reserved.
+
+This repository — including its source code, app icons, and the bundled
+word dictionary — is made available for viewing and reference only.
+
+No permission is granted to use, copy, modify, merge, publish, distribute,
+sublicense, or sell any part of this repository, in source or binary form,
+for any purpose, without prior written permission from LekiTech.
+
+Viewing and forking on GitHub are permitted solely to the extent required by
+the GitHub Terms of Service.
+
+Third-party components remain under their own licenses:
+- The Aghul letter count (data/agx/Ali_Kuzhuget/frequencies/
+  agx_monocorpus_freq.csv), the Aghul long-press mappings and the layout
+  stub (mapping/agx_key_mapping.json, mapping/agx_key_mapping_ext.json,
+  keyboard/agx_key_default.json) from
+  https://github.com/Agisight/rf-keyboard-corpora — MIT License,
+  Copyright (c) 2025 Agisight (Ali Kuzhuget).
+- The transcription of the Russian iOS keyboard (layout/rus) from
+  https://github.com/Agisight/ios-system-keyboard — MIT License,
+  Copyright (c) 2025 Agisight.
+  Copies of both licenses and of the files used are in
+  Tests/AghulCoreTests/Fixtures/agisight/.
+- Dictionary sources (words, word counts and word pairs, not the texts):
+  the Gospel of Luke in Aghul (Institute for Bible Translation, 2005) and
+  the AgulLang Russian–Aghul dictionary (agullang.ru), both as files of
+  https://github.com/nstsi/agul (no license stated); the Intercontinental
+  Dictionary Series word list «Aghul» (M. Khalilov; CC BY 4.0). The
+  tables in scripts/data/ are lists of words derived from the first two.
+  See docs/DICTIONARY.md.
+- Emoji catalog data (General Keyboard) derived from Unicode® emoji-test.txt
+  — © Unicode, Inc.
+
+For permission requests, contact LekiTech: https://github.com/LekiTech
